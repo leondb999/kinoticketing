@@ -1,4 +1,6 @@
-# Kinoticketing
+# Kinoticketing Project
+
+# Anleitung wie man das Projekt startet
 
 Hello
 # kinoticketingasdasdasdsad
@@ -15,3 +17,6 @@ ysadasd
 JA MOIN LEON!
 asdsaas
 Projekt Webprogrammierung 4. Semester Prof. Preiser
+
+
+
